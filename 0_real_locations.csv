@@ -1,0 +1,30 @@
+Lieu;Code_lieu;Lat_degree;Long_degree;Meteo;Couverture;Precision;Lat_DD;Long_DD
+Place de la Gare Locle;GALO;47°03'27.31'';6°44'46.18'';visible;aucune;normal;47.05758611;6.746161111
+Banc Rouge à côté de l'école;BCEC;47°03'43.56'';6°44'42.82'';visible;aucune;normal;47.062100;6.745227778
+"Sous arbre, juste après la barrière; ";SAAB;47°04'12.28'';6°45'03.81'';couvert;aucune;normal;47.07007778;6.751058333
+ Carrefour des chemins pédestres;CCHP;47°04'18.65'';6°44'59.19'';couvert;aucune;normal;47.07184722;6.749775
+ ferme à côté de la route;FERM;47° 04′ 49″;6° 45′ 16″;coin route;aucune;normal;47.08025;6.75442
+Carrefour du chemin de l'Escarpineau;ESCA;47° 05′ 04″;6° 45′ 18″;coin route;aucune;normal;47.08454722;6.754902778
+carrefour du chemin forestier de Choudens;CHOU;47°05'41.92'';6°45'21.02'';couvert;aucune;incertain;47.09497778;6.755838889
+Ch. Pédestre crois le chemin de Maillard et la piste des vélos ;MAIL;47°06'11.13'';6°47'11.77'';couvert;aucune;normal;47.10309167;6.786602778
+"Croisement de la voie révolutionnaire ; ";VREV;47°06'15.30'';6°48'14.21'';couvert;aucune;normal;47.10425;6.803947222
+"Croisement routier ( Gros crêt /Capel) ; ";CRET;47°06'22.48'';6°48'45.42'';coin route;couvert;normal;47.10624444;6.812616667
+Place de la Gare Chaux-de Fond;GACH;47°05'56.05'';6°49'30.03'';couvert;toit;normal;47.09890278;6.825008333
+Haut-Genevey, Gare;HGGA;47°02'52.05'';6°52'29.25'';visible;aucune;normal;47.04779167;6.874791667
+Station Gare Avant Fontainemelon;SGAF;47°03'21.22'';6°52'46.54'';visible;aucune;normal;47.05589444;6.879594444
+Forêt Avant Fontainemelon;FAFO;47°03'22.50'';6°52'59.42'';couvert;aucune;normal;47.05625;6.883172222
+Jalon 260 gaz;JGAZ;47°03'02.65'';6°53'12.61'';visible;aucune;normal;47.05073611;6.886836111
+Aire de repos via revolutiona;ARVR;47°02'14.53'';6°52'29.68'';visible;aucune;normal;47.03736944;6.874911111
+Bouvillier;BOUD;47°01'40.02'';6°53'16.31'';visible;aucune;normal;47.02778333;6.887863889
+Forêt route Boudevillier;FRBD;47°01'10.60'';6°54'16.34'';coin du champ;Couvert;incertain;47.01961111;6.904538889
+Forêt Fontaine en bois;FFBO;47°00'52.40'';6°54'30.31'';Fontaine;semi-visible ?;normal;47.01455556;6.908419444
+croisement forêt;CRFO;47°00'41.12'';6°54'22.53'';couvert;couvert;normal;47.01142222;6.906258333
+croisement chemin route;CRCH;47°00'26.37'';6°54'13.62'';couvert;cadastre;normal;47.007325;6.903783333
+Sous le pont;SPON;46°59'24.47'';6°54'32.02'';couvert;milieu;normal;46.99013056;6.908894444
+gorge;GORG;46°59'22.81'';6°54'41.64'';couvert;cadastre;normal;46.98966944;6.911566667
+En face de la gare de Neuchatel;GANE;46°59'46.15'';6°56'07.59'';visible;aucune;normal;46.99615278;6.935441667
+A côté de l'église adventiste;EGAD;46°59'40.00'';6°56'07.36'';visible;aucune;normal;46.99444444;6.935377778
+Port;PORT;46°59'22.88'';6°56'09.91'';visible;aucune;normal;46.98968889;6.936086111
+Rue des moulins / Rue du Château;MOCH;46°59'30.37'';6°55'42.93'';visible;aucune;normal;46.99176944;6.928591667
+Escaliers montant au château ;ESCH;46° 59′ 31″;6° 55′ 38″;couvert;cadastre;normal;46.99189;6.92735
+Belvédère;BELV;46°59'53.42'';6°55'36.90'';visible;aucune;normal;46.99817222;6.926916667
